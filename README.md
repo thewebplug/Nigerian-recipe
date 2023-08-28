@@ -1,6 +1,6 @@
 # Nigerian Recipe App
 
-## This is a single-page app that displays the details of a your favorite traditional Nigerian recipe
+## This is a single-page app that displays the details of a my favorite traditional Nigerian recipe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
